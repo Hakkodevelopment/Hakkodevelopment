@@ -9,7 +9,6 @@
 <h2>My stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=Hakkodevelopment&show_icons=true&theme=tokyonight">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hakkodevelopment&theme=tokyonight&layout=compact">
-<h5>(Apparently GitHubs dumb and can't tell what I use on private repos, which makes complete sense, but that's why this is empty)<h5>
 <h2>Links</h2>
 <ul>
   <li><a href="https://discord.gg/3XuvrhfKgK">My Discord</a></li>
