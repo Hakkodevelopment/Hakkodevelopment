@@ -8,7 +8,7 @@
 
 
 <h2>My stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=Hakkodevelopment&show_icons=true&theme=tokyonight">\
+<img src="https://github-readme-stats.vercel.app/api?username=Hakkodevelopment&show_icons=true&theme=tokyonight">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hakkodevelopment&theme=tokyonight&layout=compact">
 <h2>Links</h2>
 <ul>
