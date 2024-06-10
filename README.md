@@ -39,11 +39,3 @@ Below you'll find a list of my current active projects.
 #### Software (Not in any order)
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,blender,docker,visualstudio,mysql,nginx,ps,pr,ai,gamemakerstudio,unreal,unity,windows,ubuntu,debian,kali,linux)](https://skillicons.dev)
-
-
-
-### Stats
-
-<details>
-
-</details>
