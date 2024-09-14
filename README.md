@@ -1,7 +1,7 @@
 ## Howdy!! 👋
 
 ![](https://komarev.com/ghpvc/?username=hakkodevelopment&color=blue&style=for-the-badge) <br />
-![](https://ghstats.hakko.dev/api?username=Hakkodevelopment&show_icons=true&theme=radical)
+![](https://ghstats.hakko.dev/api?username=Hakkodevelopment&show_icons=true&theme=transparent)
 
 <hr>
 
