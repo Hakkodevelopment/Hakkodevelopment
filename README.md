@@ -1,6 +1,6 @@
 ## Howdy!! 👋
 
-![](https://komarev.com/ghpvc/?username=hakkodevelopment&color=blue&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=hakkodevelopment&color=blue&style=for-the-badge) <br />
 ![](https://github-stats-gamma-ivory.vercel.app/api?username=Hakkodevelopment&show_icons=true&theme=radical)
 
 <hr>
