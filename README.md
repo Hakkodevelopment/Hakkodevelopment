@@ -1,6 +1,6 @@
 ## Howdy!! 👋
 
-![](https://komarev.com/ghpvc/?username=hakkodevelopment&color=blue&style=for-the-badge) <br />
+![](https://komarev.com/ghpvc/?username=hakkodevelopment&color=blue&style=for-the-badge) [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I713QEG9) <br />
 ![](https://ghstats.hakko.dev/api?username=Hakkodevelopment&show_icons=true&theme=transparent)
 
 <hr>
