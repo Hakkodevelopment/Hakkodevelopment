@@ -5,14 +5,11 @@
 
 <hr>
 
-Howdy, I'm Hakko. I began development back in 2015 with Garry's Mod, from there I quickly grew into loving technology in general. I've since expanded my horizons from software development to game development, web development & design, system administration, cybersecurity, and starting my own hosting company. I appreciate everyone I've met along the way and everyone that's helped me get to where I am now.
+Howdy, I'm Hakko. I began development back in 2015 with Garry's Mod, from there I quickly grew into loving technology in general. I've since expanded my horizons from software development to game development, web development & design, system administration, cybersecurity, and starting my own hosting company. I appreciate everyone I've met along the way and everyone that's helped me get to where I am now. If you're wondering where all of my work is, I do 90% of my projects privately or on the [Three Amigos Modding](https://github.com/threeamigosmodding) GitHub, so a lot of it is unavailable here - You can go look there for most of my work. If any projects are archived or don't need to be private they will be published here.
 
-I currently am streaming on [Twitch](https://twitch.hakko.dev) and uploading videos to [YouTube](https://youtube.hakko.dev) in my free time, feel free to stop by if you want.
+I currently am streaming on [Twitch](https://twitch.hakko.dev) and uploading videos to [YouTube](https://youtube.hakko.dev) in my free time when I have motivation, feel free to stop by if you want.
 
-Below you'll find a list of my current active projects.  
-
-
-### Projects
+### Active Projects & Ventures
 <hr>
 
 <p align="center">
