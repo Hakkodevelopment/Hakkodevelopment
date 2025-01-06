@@ -1,7 +1,7 @@
 ## Howdy!! 👋
 
 ![](https://komarev.com/ghpvc/?username=hakkodevelopment&color=blue&style=for-the-badge) [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I713QEG9) <br />
-![](https://ghstats.hakko.dev/api?username=Hakkodevelopment&show_icons=true&theme=transparent)
+![](https://ghstats.hakko.dev/api?username=Hakkodevelopment&show_icons=true&theme=transparent&count_private=true&hide_border=true&line_height=20&bg_color=1b1c30ff) ![](https://ghstats.hakko.dev/api/top-langs/?username=Hakkodevelopment&show_icons=true&theme=transparent&layout=compact&count_private=true&hide_border=true&bg_color=1b1c30ff)
 
 <hr>
 
@@ -29,14 +29,10 @@ Below you'll find a list of my current active projects.
 
 ### Software, languages & services
 
-#### Languages (From most to least used)
+#### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=lua,js,html,css,ts,md,php,go,cs,cpp,powershell,py,java)](https://skillicons.dev)
+![](https://skillicons.dev/icons?i=lua,js,html,css,ts,md,php,go,cs,cpp,py,java)
 
-#### Services & Frameworks (Not in any order)
+#### Services, Frameworks & Software
 
-[![My Skills](https://skillicons.dev/icons?i=cloudflare,git,workers,grafana,prometheus,astro,tailwind,react,svelte,solidjs,nodejs,pnpm,yarn,npm,jquery,mongodb,vue,vite,laravel,dotnet)](https://skillicons.dev)
-
-#### Software (Not in any order)
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,blender,docker,visualstudio,mysql,nginx,ps,pr,ai,gamemakerstudio,unreal,unity,windows,ubuntu,debian,kali,linux)](https://skillicons.dev)
+![](https://skillicons.dev/icons?i=cloudflare,git,workers,grafana,prometheus,astro,tailwind,react,svelte,nodejs,pnpm,mongodb,vue,vite,laravel,dotnet,vscode,blender,docker,visualstudio,mysql,nginx,ps,pr,ai,gamemakerstudio,unreal,unity,windows,ubuntu,debian,kali,linux,mongodb,mysql,postman)
